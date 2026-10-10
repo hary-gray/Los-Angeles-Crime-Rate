@@ -20,3 +20,8 @@ This visualization evaluates the top five most common crimes broken down by geog
  
 <img width="1920" height="959" alt="image" src="https://github.com/user-attachments/assets/e6251098-cc5c-405d-bb7c-ddc8b2a4d056" />
 
+#
+**Annual Distribution of Top 5 Crimes by Area**
+The following chart illustrates both the distribution of the top five crime types and the total volume of offenses recorded across the five most impacted areas throughout the year.
+
+<img width="1920" height="959" alt="image" src="https://github.com/user-attachments/assets/a4779d7c-5ab8-41d5-bdc2-45b0de9c8f53" />
