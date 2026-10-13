@@ -25,3 +25,8 @@ This visualization evaluates the top five most common crimes broken down by geog
 The following chart illustrates both the distribution of the top five crime types and the total volume of offenses recorded across the five most impacted areas throughout the year.
 
 <img width="1920" height="959" alt="image" src="https://github.com/user-attachments/assets/a4779d7c-5ab8-41d5-bdc2-45b0de9c8f53" />
+
+#
+**Crime Severity Distribution in the 77th Street Division**
+The following visualization depicts the relative severity of offenses recorded within the 77th Street division, where blue data points indicate low-severity incidents and red data points represent high-severity incidents.
+<img width="1409" height="919" alt="image" src="https://github.com/user-attachments/assets/6ff12fb5-7559-4e75-95e5-e9fb41438c3c" />
