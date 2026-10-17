@@ -30,3 +30,10 @@ The following chart illustrates both the distribution of the top five crime type
 **Crime Severity Distribution in the 77th Street Division**
 The following visualization depicts the relative severity of offenses recorded within the 77th Street division, where blue data points indicate low-severity incidents and red data points represent high-severity incidents.
 <img width="1409" height="919" alt="image" src="https://github.com/user-attachments/assets/6ff12fb5-7559-4e75-95e5-e9fb41438c3c" />
+
+#
+**Interactive Crime Mapping and Severity Analysis**
+This interactive dashboard presents the geographic distribution of incidents across various divisions, highlighting the top three crime categories. It differentiates occurrences by severity level (low versus high) and maps each incident using precise geographic coordinates (latitude and longitude).
+
+<img width="1303" height="708" alt="image" src="https://github.com/user-attachments/assets/c0fd419d-71da-4ba8-8169-32e8aaacbf35" />
+
